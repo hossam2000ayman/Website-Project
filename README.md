@@ -1,2 +1,2 @@
 # Website Project
- written in HTML , CSS , JS from CodePen Website
+ written in HTML , CSS , JS in VSCode
